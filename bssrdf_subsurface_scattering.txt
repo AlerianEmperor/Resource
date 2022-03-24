@@ -8,3 +8,4 @@ https://www.semanticscholar.org/paper/Directional-Dipole-Model-for-Subsurface-Sc
 https://github.com/RoaldFre/mitsuba-ALVRL-fwddip/blob/fwddip/src/subsurface/dirpole.cpp
 http://www.imm.dtu.dk/~jerf/
 https://books.google.com.vn/books?id=5wg_TvqLJH4C&pg=PA88&lpg=PA88&dq=subsurface+scattering+ray+tracing+c%2B%3D&source=bl&ots=EboaJR4aZx&sig=ACfU3U23Vvr2VkMjHjzHJDCr_O4obuqNUQ&hl=vi&sa=X&ved=2ahUKEwiJ3pb-nt72AhUCgtgFHRnVAMQQ6AF6BAg7EAM#v=onepage&q=subsurface%20scattering%20ray%20tracing%20c%2B%3D&f=false
+https://gao-duan.github.io/blogs/bssrdf/index.html
