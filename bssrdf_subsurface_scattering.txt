@@ -1,0 +1,9 @@
+https://computergraphics.stackexchange.com/questions/5214/a-recent-approach-for-subsurface-scattering
+https://people.compute.dtu.dk/jerf/code/dirsss/
+https://mobile.twitter.com/voxel_tracer
+https://mangosister.github.io/Narumi-Website/
+https://slidetodoc.com/subsurface-scattering-jaroslav-kivnek-ksvi-mff-uk-jaroslav/
+http://igorsklyar.com/main/development_description/16?locale=en
+https://www.semanticscholar.org/paper/Directional-Dipole-Model-for-Subsurface-Scattering-Frisvad-Hachisuka/f6f5bf09b919deb268f21bfb4e5cd79600acc2f9
+https://github.com/RoaldFre/mitsuba-ALVRL-fwddip/blob/fwddip/src/subsurface/dirpole.cpp
+http://www.imm.dtu.dk/~jerf/
