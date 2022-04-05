@@ -11,3 +11,6 @@ https://github.com/ZheyuanXie/CUDA-Path-Tracer-Denoising       3
 https://github.com/wangkepfe/CUDA-Path-Tracing                 4
 https://github.com/BlauHimmel/PathTracerWithCuda               5
 https://github.com/MeirBon/CudaTracer                          6
+
+ocean
+https://www.shadertoy.com/view/Ms2SD1
