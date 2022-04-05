@@ -12,3 +12,6 @@ https://gao-duan.github.io/blogs/bssrdf/index.html
 
 http://gvector.xyz/projects/sss-report/report.html
 http://shihchinw.github.io/2015/10/bssrdf-importance-sampling-of-normalized-diffusion.html
+
+//mc dead simple
+https://qiita.com/syoyo/items/a5469f9e399f80fc62df
