@@ -14,3 +14,6 @@ https://github.com/MeirBon/CudaTracer                          6
 
 ocean
 https://www.shadertoy.com/view/Ms2SD1
+
+fluid
+https://github.com/dli/fluid
