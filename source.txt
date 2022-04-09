@@ -27,6 +27,7 @@ https://github.com/dtrajko/MoravaEngine
 https://github.com/shiinamiyuki/miyuki-renderer
 https://github.com/serhii-rieznik/etx-tracer
 https://github.com/beltegeuse/rustlight/tree/master/src
+https://github.com/loren-mur/nori
 
 vulkan
 https://github.com/ajweeks/FlexEngine
