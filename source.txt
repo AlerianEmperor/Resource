@@ -17,3 +17,6 @@ https://www.shadertoy.com/view/Ms2SD1
 
 fluid
 https://github.com/dli/fluid
+
+inferior but can learn something from it
+https://github.com/linusmossberg/monte-carlo-ray-tracer
