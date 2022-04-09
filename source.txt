@@ -22,3 +22,11 @@ inferior but can learn something from it
 https://github.com/linusmossberg/monte-carlo-ray-tracer
 https://github.com/kosua20/Rendu
 https://github.com/dtrajko/MoravaEngine
+
+
+https://github.com/shiinamiyuki/miyuki-renderer
+https://github.com/serhii-rieznik/etx-tracer
+https://github.com/beltegeuse/rustlight/tree/master/src
+
+vulkan
+https://github.com/ajweeks/FlexEngine
