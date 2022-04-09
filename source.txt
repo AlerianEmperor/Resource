@@ -30,3 +30,6 @@ https://github.com/beltegeuse/rustlight/tree/master/src
 
 vulkan
 https://github.com/ajweeks/FlexEngine
+
+rust
+https://github.com/EmbarkStudios/kajiya
