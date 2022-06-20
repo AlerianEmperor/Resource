@@ -8,6 +8,7 @@ https://developer.blender.org/diffusion/B/browse/master/intern/cycles/kernel/clo
 https://cgg.mff.cuni.cz/~jaroslav/papers/2010-anisobrdf/2010-anisobrdf.pdf
 
 ashikhmin and charlie implementation
+https://knarkowicz.wordpress.com/2018/01/04/cloth-shading/
 https://www.shadertoy.com/view/4tfBzn
 
 knoros brdf
@@ -15,3 +16,10 @@ https://github.com/KhronosGroup/glTF-Sample-Viewer/blob/master/source/Renderer/s
 
 corona render
 https://github.com/hanatos/corona-13/tree/master/src/shaders/attic
+
+ashkmin paper
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.621.5638&rep=rep1&type=pdf
+
+ashkmin shirley cloth
+https://www.researchgate.net/publication/220721563_A_microfacet-based_BRDF_generator
+
