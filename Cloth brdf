@@ -7,7 +7,11 @@ https://developer.blender.org/diffusion/B/browse/master/intern/cycles/kernel/clo
 //aniso tropic work not so good
 https://cgg.mff.cuni.cz/~jaroslav/papers/2010-anisobrdf/2010-anisobrdf.pdf
 
-//ashikhmin and charlie implementation
+ashikhmin and charlie implementation
 https://www.shadertoy.com/view/4tfBzn
 
+knoros brdf
+https://github.com/KhronosGroup/glTF-Sample-Viewer/blob/master/source/Renderer/shaders/brdf.glsl
 
+corona render
+https://github.com/hanatos/corona-13/tree/master/src/shaders/attic
