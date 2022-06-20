@@ -1,1 +1,13 @@
+gltf with sheen layer and albedo scaling
 https://github.com/sebavan/glTF/tree/KHR_materials_sheen/extensions/2.0/Khronos/KHR_materials_sheen
+
+blender
+https://developer.blender.org/diffusion/B/browse/master/intern/cycles/kernel/closure/
+
+//aniso tropic work not so good
+https://cgg.mff.cuni.cz/~jaroslav/papers/2010-anisobrdf/2010-anisobrdf.pdf
+
+//ashikhmin and charlie implementation
+https://www.shadertoy.com/view/4tfBzn
+
+
