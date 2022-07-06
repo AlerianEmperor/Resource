@@ -1,0 +1,1 @@
+To run SSS use subsurface_scattering.h, use function radiance_volume not radiance_volume2
