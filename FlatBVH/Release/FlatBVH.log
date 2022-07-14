@@ -1,0 +1,76 @@
+﻿  original_dot_main.cpp
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\vec3.h(133): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\vec3.h(138): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\vec3.h(167): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\vec3.h(219): warning C4805: '==': unsafe mix of type 'bool' and type 'float' in operation
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\vec3.h(284): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\AreaLight.h(48): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\AreaLight.h(99): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\AreaLight.h(118): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Texture.h(49): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Texture.h(50): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\material.h(79): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\material.h(82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\material.h(139): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\material.h(232): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\material.h(234): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(60): warning C4305: 'argument': truncation from 'int' to 'char'
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(60): warning C4309: 'argument': truncation of constant value
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(67): warning C4305: 'argument': truncation from 'int' to 'char'
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(67): warning C4309: 'argument': truncation of constant value
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(73): warning C4305: 'argument': truncation from 'int' to 'char'
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(73): warning C4309: 'argument': truncation of constant value
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(415): warning C4473: 'sscanf_s' : not enough arguments passed for format string
+  e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(415): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(415): note: the missing variadic argument 2 is required by format string '%s'
+  e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(415): note: this argument is used as a buffer size
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(423): warning C4473: 'sscanf_s' : not enough arguments passed for format string
+  e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(423): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(423): note: the missing variadic argument 2 is required by format string '%s'
+  e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(423): note: this argument is used as a buffer size
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(507): warning C4473: 'sscanf_s' : not enough arguments passed for format string
+  e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(507): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(507): note: the missing variadic argument 2 is required by format string '%s'
+  e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(507): note: this argument is used as a buffer size
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(558): warning C4473: 'sscanf_s' : not enough arguments passed for format string
+  e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(558): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(558): note: the missing variadic argument 2 is required by format string '%s'
+  e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(558): note: this argument is used as a buffer size
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(563): warning C4101: 'h2': unreferenced local variable
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(563): warning C4101: 'n': unreferenced local variable
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(563): warning C4101: 'w2': unreferenced local variable
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(678): warning C4018: '<': signed/unsigned mismatch
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(645): warning C4473: 'sscanf_s' : not enough arguments passed for format string
+  e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(645): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(645): note: the missing variadic argument 2 is required by format string '%s'
+  e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(645): note: this argument is used as a buffer size
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(708): warning C4473: 'sscanf_s' : not enough arguments passed for format string
+  e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(708): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(708): note: the missing variadic argument 2 is required by format string '%s'
+  e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(708): note: this argument is used as a buffer size
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(671): warning C4101: 'face_type': unreferenced local variable
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Scene.h(752): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Tone_Mapping.h(27): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Tone_Mapping.h(27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Tone_Mapping.h(32): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Tone_Mapping.h(38): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Tone_Mapping.h(40): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Tone_Mapping.h(41): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Tone_Mapping.h(42): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Tone_Mapping.h(43): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Tone_Mapping.h(55): warning C4305: 'argument': truncation from 'double' to 'float'
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Tone_Mapping.h(56): warning C4305: 'argument': truncation from 'double' to 'const float'
+e:\a_a_sang_ray_tracing\advance_features\63.flat_bvh\flatbvh\flatbvh\Tone_Mapping.h(56): warning C4305: 'argument': truncation from 'double' to 'float'
+original_dot_main.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+original_dot_main.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+original_dot_main.cpp(26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+original_dot_main.cpp(26): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+original_dot_main.cpp(32): warning C4305: 'argument': truncation from 'double' to 'float'
+original_dot_main.cpp(182): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  50 of 2261 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    18 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  FlatBVH.vcxproj -> E:\a_a_Sang_Ray_Tracing\Advance_Features\63.Flat_BVH\FlatBVH\Release\FlatBVH.exe
+  FlatBVH.vcxproj -> E:\a_a_Sang_Ray_Tracing\Advance_Features\63.Flat_BVH\FlatBVH\Release\FlatBVH.pdb (Full PDB)
