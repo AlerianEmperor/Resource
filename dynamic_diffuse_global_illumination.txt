@@ -2,7 +2,8 @@ dynamic diffuse globa illumination
 https://jcgt.org/published/0008/02/01/
 
 Scaling Probe-Based Real-Time Dynamic
-Global Illumination for Production
+Global Illumination for Production
+
 https://arxiv.org/pdf/2009.10796.pdf
 
 Real-time Global Illumination using Irradiance Probes
@@ -11,8 +12,12 @@ https://dcgi.fel.cvut.cz/?media=theses%2F2019%2Fsedlasi1%2Fthesis.pdf&action=fet
 
 https://cescg.org/wp-content/uploads/2019/03/Sedlacek-Real-time-Global-Illumination-using-Irradiance-Probes.pdf
 
-Signed Distance Fields Dynamic Diffuse Global Illumination
+Signed Distance Fields Dynamic Diffuse Global Illumination
+
 https://arxiv.org/pdf/2007.14394.pdf
 
 defere irandiance volume
 https://github.com/pyalot/webgl-deferred-irradiance-volumes
+
+link reddit
+https://www.reddit.com/r/GraphicsProgramming/comments/o5gw7f/ddgi_dynamic_diffuse_global_illumination_in_a/
