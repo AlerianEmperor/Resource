@@ -1,1 +1,2 @@
 https://resources.mpi-inf.mpg.de/lensflareRendering/
+https://john-chapman.github.io/2017/11/05/pseudo-lens-flare.html
