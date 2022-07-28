@@ -1,0 +1,80 @@
+int ind0 = trs[ti].ind_v0;
+			int n0 = indices[ind0].vn;
+
+			if (n0 >= 0)
+			{
+				/*int n0_0 = 3 * n0;
+				int n0_1 = n0_0 + 1;//3 * n0 + 1;
+				int n0_2 = n0_0 + 2;//3 * n0 + 2;
+
+				int n1_0 = 3 * n1;
+				int n1_1 = n1_0 + 1;//3 * n1 + 1;
+				int n1_2 = n1_0 + 2;//3 * n1 + 2;
+
+				int n2_0 = 3 * n2;
+				int n2_1 = n2_0 + 1;//3 * n2 + 1;
+				int n2_2 = n2_0 + 2;//3 * n2 + 2;
+
+				vec3 vn0(float(vn[n0_0]) * 0.0001f, float(vn[n0_1]) * 0.0001f, float(vn[n0_2]) * 0.0001f);
+				vec3 vn1(float(vn[n1_0]) * 0.0001f, float(vn[n1_1]) * 0.0001f, float(vn[n1_2]) * 0.0001f);
+				vec3 vn2(float(vn[n2_0]) * 0.0001f, float(vn[n2_1]) * 0.0001f, float(vn[n2_2]) * 0.0001f);
+				*/
+
+				int ind0 = trs[ti].ind_v0;
+				int ind1 = trs[ti].ind_v1;
+				int ind2 = trs[ti].ind_v2;
+
+				int n0 = 3 * indices[ind0].vn;
+				int n1 = 3 * indices[ind1].vn;
+				int n2 = 3 * indices[ind2].vn;
+
+				vec3 vn0(float(vn[n0]) * 0.0001f, float(vn[n0 + 1]) * 0.0001f, float(vn[n0 + 2]) * 0.0001f);
+				vec3 vn1(float(vn[n1]) * 0.0001f, float(vn[n1 + 1]) * 0.0001f, float(vn[n1 + 2]) * 0.0001f);
+				vec3 vn2(float(vn[n2]) * 0.0001f, float(vn[n2 + 1]) * 0.0001f, float(vn[n2 + 2]) * 0.0001f);
+
+				rec.n = intp(vn0, vn1, vn2, rec.u, rec.v).norm();
+				//rec.n = intp(vn[n0], vn[n1], vn[n2], rec.u, rec.v).norm();
+			}
+			else
+			{
+				int ind0 = trs[ti].ind_v0;
+				int ind1 = trs[ti].ind_v1;
+				int ind2 = trs[ti].ind_v2;
+
+				int v0 = 3 * indices[ind0].v;
+				int v1 = 3 * indices[ind1].v;
+				int v2 = 3 * indices[ind2].v;
+
+				vec3 p0(v[v0], v[v0 + 1], v[v0 + 2]);
+				vec3 p1(v[v1], v[v1 + 1], v[v1 + 2]);
+				vec3 p2(v[v2], v[v2 + 1], v[v2 + 2]);
+
+				p0 *= v_extend_i65535;
+				p1 *= v_extend_i65535;
+				p2 *= v_extend_i65535;
+
+				//p0 += v_min;
+				//p1 += v_min;
+				//p2 += v_min;
+
+				vec3 e0(p0 - p1);
+				vec3 e1(p1 - p2);
+				vec3 e2(p2 - p0);
+
+				/*vec3 n1 = (e1.cross(e2)).norm();
+				vec3 n2 = (e3.cross(e1)).norm();
+				vec3 n3 = -(e2.cross(e3)).norm();
+				rec.n = intp(n1, n2, n3, rec.u, rec.v);
+				*/
+
+				//vec3 n0 = -(e0.cross(e2)).norm();
+				//vec3 n2 = -(e1.cross(e0)).norm();
+				//vec3 n3 = -(e2.cross(e1)).norm();
+
+				vec3 n0 = (e2.cross(e0)).norm();
+				vec3 n1 = (e0.cross(e1)).norm();
+				vec3 n2 = (e1.cross(e2)).norm();
+
+				//rec.n = n1;
+				rec.n = intp(n0, n1, n2, rec.u, rec.v);
+			}
