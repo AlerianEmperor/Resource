@@ -1,0 +1,3 @@
+OpenGL Object Loading can load virtually every 3d.obj file you can find on the internet, without using another object loading library (assimp for example). The program can load Object with 12M+ triangles and more
+
+LuxRenderer is a rendering system which is capable of rendering high quality, life-like images and rival the ones genrate by pbrt. 
