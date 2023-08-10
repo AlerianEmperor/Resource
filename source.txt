@@ -1,7 +1,3 @@
-cuda best
-https://github.com/brickray/gpu-pathtracer
-
-
 offline rendering
 https://github.com/linusmossberg/monte-carlo-ray-tracer        1
 https://github.com/AirGuanZ/Atrc                               2
